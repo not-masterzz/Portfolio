@@ -8,13 +8,13 @@
 </summary>
 
 ![Api's data response](https://i.imgur.com/BKTpzdT.png)
-<p> Api's data response <\p>
+<p> Api's data response </p>
 
 ![Api's data response into a UI](https://i.imgur.com/kHHuwzg.png)
-<p> Api's data response into a UI using price map<\p>
+<p> Api's data response into a UI using price map </p>
 
 ![Api's data response using multiple at onace](https://i.imgur.com/Rqut7Lg.png)
-<p> Api's data response using multiple at onace <\p>
+<p> Api's data response using multiple at onace </p>
 
 </details>
 
