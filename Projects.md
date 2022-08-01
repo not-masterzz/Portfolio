@@ -22,7 +22,7 @@
 
 <details>
 <summary> 
-    I had a friend which created a function to sub out a player's currency value and would convert to it's true number ( E.g. "10.5m" -> "1000000" ) 
+    I had a friend which created a function to sub out a player's currency value and would convert to it's true number ( E.g. 10.5m -> 1000000 ) 
 </summary>
 
 <p> 
