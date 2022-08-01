@@ -4,6 +4,15 @@
 
 <details>
 <summary> 
+    Anti-Synapse ( Basic exploit detection )
+</summary>
+
+![Api's detection](https://i.imgur.com/NcI4ZOT.mp4)
+
+</details>
+
+<details>
+<summary> 
     A stock tracking API that would track multiple sites to get stock value ( has dynamic support for indexs and crypto aswell )
 </summary>
 
