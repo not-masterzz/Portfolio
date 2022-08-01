@@ -6,9 +6,8 @@
 <summary> 
     Anti-Synapse ( Basic exploit detection )
 </summary>
-
-![Api's detection](https://i.imgur.com/NcI4ZOT.mp4)
-
+    
+https://i.imgur.com/NcI4ZOT.mp4
 </details>
 
 <details>
