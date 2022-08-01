@@ -1,5 +1,9 @@
 # Masterzz Portfolio ( Lua Side Only )
 
+## Groups i've contributed to
+https://www.roblox.com/groups/6558092/Survival-The-Killer-Gang
+https://www.roblox.com/groups/14215552/TS-Industries
+
 ## Lua APIs
 
 <details>
