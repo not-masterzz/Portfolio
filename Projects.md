@@ -1,16 +1,33 @@
-# Masterzz Portfolio
+# Masterzz Portfolio ( Lua Side Only )
+
+## Lua APIs
+
+<details>
+<summary> 
+    A stock tracking API that would track multiple sites to get stock value ( has dynamic support for indexs and crypto aswell )
+</summary>
+
+![Api's data response](https://i.imgur.com/BKTpzdT.png)
+<p> Api's data response <\p>
+
+![Api's data response into a UI](https://i.imgur.com/kHHuwzg.png)
+<p> Api's data response into a UI using price map<\p>
+
+![Api's data response using multiple at onace](https://i.imgur.com/Rqut7Lg.png)
+<p> Api's data response using multiple at onace <\p>
+
+</details>
 
 ## Script fixing
 
 <details>
-
 <summary> 
-    Basically i had a friend which created a function to sub out a player's currency value and would convert it to its true number ( E.g. "10.5m" -> "1000000" ) 
+    I had a friend which created a function to sub out a player's currency value and would convert to it's true number ( E.g. "10.5m" -> "1000000" ) 
 </summary>
 
 <p> 
-Friends code.
 
+Friends code.
 ```lua
 function getAmt(value)
 local b = ''
@@ -40,7 +57,6 @@ end
 ```
 
 My fix for his code.
-
 ```lua
 function getAmt(value)
     for i,v in pairs(string.split(string.lower(value),'')) do 
@@ -54,6 +70,5 @@ function getAmt(value)
     end
 end
 ```
-
 </p>
 </details>
